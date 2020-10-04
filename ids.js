@@ -113,7 +113,7 @@ exports.image_ids = {
     "LE07_133040_20041211",
     "LE07_133041_20051112"
   ],
-  analysis_image_ids_all: [
+  analysis_image_ids_unique: [
     "LE07_152033_20060731",
     "LE07_152034_20060731",
     "LE07_152035_20060917",
